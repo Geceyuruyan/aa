@@ -1,0 +1,11 @@
+C:\Users\mehme\Desktop\C#\araclar\araclar\bin\Debug\araclar.exe.config
+C:\Users\mehme\Desktop\C#\araclar\araclar\bin\Debug\araclar.exe
+C:\Users\mehme\Desktop\C#\araclar\araclar\bin\Debug\araclar.pdb
+C:\Users\mehme\Desktop\C#\araclar\araclar\obj\Debug\araclar.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\C#\araclar\araclar\obj\Debug\araclar.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\C#\araclar\araclar\obj\Debug\araclar.KayıtFormu.resources
+C:\Users\mehme\Desktop\C#\araclar\araclar\obj\Debug\araclar.Properties.Resources.resources
+C:\Users\mehme\Desktop\C#\araclar\araclar\obj\Debug\araclar.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\C#\araclar\araclar\obj\Debug\araclar.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\C#\araclar\araclar\obj\Debug\araclar.exe
+C:\Users\mehme\Desktop\C#\araclar\araclar\obj\Debug\araclar.pdb

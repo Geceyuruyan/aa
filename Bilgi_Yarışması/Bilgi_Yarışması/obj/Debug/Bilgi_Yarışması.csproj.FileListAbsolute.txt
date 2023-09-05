@@ -1,0 +1,11 @@
+C:\Users\mehme\Desktop\C#\Bilgi_Yarışması\Bilgi_Yarışması\bin\Debug\Bilgi_Yarışması.exe.config
+C:\Users\mehme\Desktop\C#\Bilgi_Yarışması\Bilgi_Yarışması\bin\Debug\Bilgi_Yarışması.exe
+C:\Users\mehme\Desktop\C#\Bilgi_Yarışması\Bilgi_Yarışması\bin\Debug\Bilgi_Yarışması.pdb
+C:\Users\mehme\Desktop\C#\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\C#\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\C#\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.Form1.resources
+C:\Users\mehme\Desktop\C#\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.Properties.Resources.resources
+C:\Users\mehme\Desktop\C#\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\C#\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\C#\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.exe
+C:\Users\mehme\Desktop\C#\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\Bilgi_Yarışması.pdb
